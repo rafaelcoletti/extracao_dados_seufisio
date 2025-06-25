@@ -1,0 +1,7 @@
+pandas
+selenium
+gspread
+oauth2client
+python-dotenv
+pywin32
+openpyxl
